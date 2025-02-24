@@ -1,1 +1,1 @@
-# mySQL
+# SQL
